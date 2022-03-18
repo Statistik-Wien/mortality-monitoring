@@ -6,7 +6,6 @@ date: "18 March 2022"
 output:
   html_document:
       toc: true
-      toc_float: true
       keep_md: true
 ---
 
